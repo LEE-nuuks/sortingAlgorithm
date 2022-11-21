@@ -3,7 +3,7 @@ all about of sorting algorithm in cpp
 
 
 ### Sorting Algorithm
-- [Bubble Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/bubbleSortAlgo)
+- [Bubble Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/bubbleSortALgo)
 - [Counting Sort](#)
 - [Merge Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/mergeSort)
 - [Quick Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/quickSort)
