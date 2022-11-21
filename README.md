@@ -3,10 +3,10 @@ all about of sorting algorithm in cpp
 
 
 ### Sorting Algorithm
-- [Bubble Sort]()
-- [Counting Sort]()
-- [Merge Sort]()
-- [Quick Sort]()
-- [Insertion Sort]()
-- [Selection Sort](/sortingAlgorithm)
+- [Bubble Sort](https://github.com/LEE-nuuks/bubbleSortAlgo)
+- [Counting Sort](#)
+- [Merge Sort](#mergeSort)
+- [Quick Sort](https://github.com/LEE-nuuks/sortingAlgorithm)
+- [Insertion Sort](https://github.com/LEE-nuuks/insertionSort)
+- [Selection Sort](https://github.com/LEE-nuuks/sortingAlgorithm)
 
