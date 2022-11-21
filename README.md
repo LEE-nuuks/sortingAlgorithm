@@ -8,5 +8,5 @@ all about of sorting algorithm in cpp
 - [Merge Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/mergeSort)
 - [Quick Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/quickSort)
 - [Insertion Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/insertionSort)
-- [Selection Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/sortingAlgorithm/selectionSort)
+- [Selection Sort](https://github.com/LEE-nuuks/sortingAlgorithm/tree/main/selectionSort)
 
